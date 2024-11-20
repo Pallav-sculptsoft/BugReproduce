@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E02E0CE8-A2B3-4D98-B6E1-ADC5834AD993}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestReproduce" expanded="True">
+            <Node name="TestReproduce" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Popups" expanded="True">
+                <Node name="Testpopup.xaml" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestReproduce PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-00060C5226EA402E" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-00060C5226EA402E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
